@@ -1,9 +1,8 @@
 # Matching Pursuit (MP) / Orthogonal Matching Pursuit (OMP)
-This is a Matlab implementation of MP/OMP algorithm.
+This is a Matlab implementation of MP/OMP algorithm. Demo script runs the MP and OMP algorithms and compares their performace in terms of accuracy of recovery, sparsity, and speed.
 
 # Description of files
-- demo_mp : test script for MP
-- demo_omp : test script for OMP
+- demo_omp : test script for MP/OMP
 - mp.m : function for MP
 - omp.m : function for OMP
 
